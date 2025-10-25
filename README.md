@@ -19,3 +19,9 @@
 - [《人纪系列神农本草经》](./nhx/shennongbencaojing.pdf) 
 - [《人纪系列伤寒论》](./nhx/shanghanlun1.pdf) 
 - [《人纪系列金贵要略》](./nhx/jingguiyaolue.pdf) 
+
+## 傅青主
+- [《傅青主男女科》](./fqz/fqznnk.pdf) 
+
+## 赵熙
+- [《針灸傳真精義》](./zx/針灸傳真精義.pdf) 
